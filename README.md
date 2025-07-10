@@ -25,8 +25,7 @@ This project was developed as part of the **InLighn Tech Internship Program** to
 
 ---
 
-## 📋 Usage:
-
+### Usage:
 ```bash
 python password_cracker.py --hash <hash_value>
 
@@ -36,18 +35,18 @@ Optional Arguments:
 
     --type → Manually specify hash type (usually auto-detected)
 
-📝 Example:
+📄 Example:
 
 python password_cracker.py --hash 098f6bcd4621d373cade4e832627b4f6
 
-⚠️ Disclaimer:
+## ⚠️ Disclaimer:
 
 This tool is for educational and ethical testing purposes only.
 Do NOT use it for unauthorized access or malicious activities.
 📜 License:
 
-MIT License (Free to use, with conditions)
+## 📜 MIT License (Free to use, with conditions)
 
-✨ Credits:
+## ✨ Credits:
 
-Developed by Arushi Saxena ([Github]https://github.com/arushi-saxena06/hash-cracker-tool) during the Inlign Tech Internship Program.
+Developed by Arushi Saxena ([Github]https://github.com/arushi-saxena06/hash-cracker-tool) during the InLighn Tech Internship Program.
