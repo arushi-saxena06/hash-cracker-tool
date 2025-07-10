@@ -2,7 +2,7 @@
 
 A Python-based hash cracking tool using dictionary and brute-force attacks with support for common hash types (MD5, SHA1, SHA256, SHA512).
 
-This project was developed as part of the **InLighn Tech Internship Program** to demonstrate the concepts of **hash cracking**, **multithreading**, and **password security** in cybersecurity.
+This project was developed as part of the **InLighnX Global Pvt Ltd (InLighn Tech) Internship Program** to demonstrate the concepts of **hash cracking**, **multithreading**, and **password security** in cybersecurity.
 
 ---
 
