@@ -25,7 +25,7 @@ This project was developed as part of the **InLighn Tech Internship Program** to
 
 ---
 
-### Usage:
+## Usage:
 ```bash
 python password_cracker.py --hash <hash_value>
 
