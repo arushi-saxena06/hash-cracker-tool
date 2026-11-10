@@ -9,8 +9,8 @@ This project was developed as part of the **InLighnX Global Pvt Ltd (InLighn Tec
 ## 🔑 Features:
 - Supports **MD5**, **SHA-1**, **SHA-256**, and **SHA-512** hashes (auto-detects by hash length)
 - Cracks passwords using:
-  - ✅ Wordlist-based dictionary attack
-  - ✅ Brute-force attack with configurable character set & length
+  - Wordlist-based dictionary attack
+  - Brute-force attack with configurable character set & length
 - Detects common hash types automatically
 - Provides warnings for potentially long brute-force runs
 - Handles keyboard interruptions gracefully (Ctrl + C)
@@ -50,4 +50,4 @@ Do NOT use it for unauthorized access or malicious activities.
 
 ## ✨ Credits:
 
-Developed by Arushi Saxena ([Github]https://github.com/arushi-saxena06/hash-cracker-tool) during the InLighn Tech Internship Program.
+Developed by Arushi Saxena (https://github.com/arushi-saxena06/hash-cracker-tool) during the InLighn Tech Internship Program.
